@@ -8,7 +8,7 @@ Flutter Developer
 I like exploring new domains.
 
 * 🌍  I'm from India
-* 🌱 I’m currently learning GoLang
+* 🌱 I’m currently learning Kotlin
 * 🤝  I’m looking to collaborate on interesting projects
 * 💬 Ask me about app development in Flutter
 * ✉️  You can contact me at [uttkarshraj.me@gmail.com](mailto:uttkarshraj.me@gmail.com)
