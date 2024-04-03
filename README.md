@@ -8,7 +8,7 @@ Flutter Developer
 I like exploring new domains.
 
 * 🌍  I'm from India
-* 🌱 I’m currently learning Kotlin
+* 🌱 I’m currently exploring Golang
 * 🤝  I’m looking to collaborate on interesting projects
 * 💬 Ask me about app development in Flutter
 * ✉️  You can contact me at [uttkarshraj.me@gmail.com](mailto:uttkarshraj.me@gmail.com)
@@ -32,7 +32,7 @@ I like exploring new domains.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Uttkarsh-raj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uttkarsh-raj-a40a0b246" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/__uttkarsh__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Uttkarsh-raj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uttkarsh-raj-a40a0b246" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/__uttkarsh__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="fill: white;"/></a><a href="https://uttkarsh.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32"/></a></p>
 
 ### Badges
 
